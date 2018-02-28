@@ -1,0 +1,6 @@
+main: fr.angrykiller.bungeelightmsg.Main
+name: BungeeLightMSG
+version: 1.0
+author: AngryKiller
+description: A lightweight BungeeCord private messaging system
+database: false

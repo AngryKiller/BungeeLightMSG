@@ -1,0 +1,2 @@
+# BungeeLightMSG
+BungeeLightMSG in an old BungeeCord plugin for private messaging that I written because I wanted to learn Java and create Minecraft server plugins. I am not developping it anymore, that's why I'm uploading the source code. I didn't tested it before but it should work on BungeeCord 1.8+ without problems. 
